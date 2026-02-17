@@ -1,4 +1,13 @@
 ## Hi there 👋
+Business & Computer Science student at Trinity College Dublin | Founder of ML Webdesign
+
+🔭 What I'm working on
+Software Engineering Group Project with Amazon Web Services (AWS) — backend developer building an end-to-end product using Agile, CI/CD & DevSecOps
+ML Webdesign — my freelance web development business delivering custom client websites
+
+💼 Experience
+Data Analysis Intern @ Unio Wealth Management — SQL, data cleansing & financial reporting
+Junior Analyst (Financial Banks) @ Trinity Student Managed Fund — equity research for Europe's first student-managed fund
 
 <!--
 **matthewpoleary-dot/matthewpoleary-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
